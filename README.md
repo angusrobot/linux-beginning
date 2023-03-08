@@ -1,2 +1,3 @@
-# linux-beginning
+# 介绍
+
 给Linux入门者的保姆级使用教程
